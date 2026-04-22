@@ -11,4 +11,3 @@ You are running the `example-test` skill.
    - `date` via Bash
    - `pwd` via Bash
 4. Print a short summary: "Skill ran successfully."
-5. New point
