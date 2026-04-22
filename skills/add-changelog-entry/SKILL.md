@@ -33,6 +33,7 @@ The user provides:
 4. Append `- <entry>` as the last bullet under that subsection.
 5. Do not modify any other sections.
 6. Do not commit — leave the staging to the user.
+7. Another really important instruction.
 
 ## Output
 
