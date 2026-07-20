@@ -51,3 +51,5 @@ Result — `CHANGELOG.md` gains:
 ### Fixed
 - Crash when opening empty files
 ```
+
+<!-- DAM e2e drift test #944: upstream edit to trigger drift detection -->
